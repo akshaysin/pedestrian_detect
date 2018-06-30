@@ -15,3 +15,11 @@
 ```
 
 * If all goes good, you should see a `peds_saved.jpeg` in the root directory. That is the analyzed image.
+
+### Result
+
+Here is a before and after snapshot of the image after the script was pedestrian
+
+![Before](peds.jpeg)
+
+![After](peds_saved.jpg)
