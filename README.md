@@ -1,4 +1,4 @@
-## A simple python script to detect pedestrians in an image using python's opencv
+## A simple and smooth python script to detect pedestrians in an image using python's opencv
 
 ### Steps
 
