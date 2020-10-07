@@ -7,6 +7,7 @@ cascPath = "haarcascade_pedestrian.xml"
 # cascPath = "haarcascade_fullbody.xml"
 
 pedsCascade =  cv2.CascadeClassifier(cascPath)
+# tffg utfg uvgy nbjhyuuybh bbuihiub hbyuiouuyh jhvgchbkjhkg kbhjgjbugihj
 
 # Read the image
 image = cv2.imread(imagePath)
